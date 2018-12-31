@@ -640,4 +640,4 @@ channel.guild.owner.send(`<@!${channelremover.id}>
   },Otime)
   });
 
-client.login('token');
+client.login('NTI5MzExNzc5ODg5NjEwNzk1.DwvAWA.VPbsGL5gvP9S_5RDfiHw6Olx1Zo');
